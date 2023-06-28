@@ -5,5 +5,3 @@ hello!Git
 hello!Git
 123123123123
 23232323232323
-insert in GitHub 
-利用SSH实现免密登录
